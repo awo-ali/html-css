@@ -24,19 +24,16 @@ h3 {
 font-family: "Roboto", georgia;
 }
 
-.german flags{
 
-
-}
 
 .top {
-
+    background-color: black;
 }
 
 .middle {
-
+    background-color: red;
 }
 
-. bottom {
-
+.bottom {
+    background-color: yellow;
 }
