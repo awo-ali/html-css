@@ -32,6 +32,8 @@ margin-right: 40%;
 
 .german-flag {
     display: flex;
+    flex-direction: column;
+    
 }
 
 .top {
