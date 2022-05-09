@@ -11,3 +11,11 @@ h1 {
 p {
      font-family: "Hind", sans-serif;
 }
+
+h1 {
+    background-color: red;
+}
+
+p {
+    background-color: blueviolet;
+}
