@@ -24,16 +24,26 @@ h3 {
 font-family: "Roboto", georgia;
 }
 
+.german-flag {
 
+    display: flex;
+}
 
 .top {
     background-color: black;
+    height: 50px;
+    width: 50px;
 }
 
 .middle {
     background-color: red;
+    height: 50;
+    width: 50px;
 }
 
 .bottom {
     background-color: yellow;
+    height: 50px;
+    width: 50px;
+
 }
